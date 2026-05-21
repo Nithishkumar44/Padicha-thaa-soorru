@@ -13,7 +13,6 @@ echo ""
 echo "Yenna da panni vachu erukka:"
 read message
 
-# Commit changes
 git commit -m "$message"
 
 echo ""
